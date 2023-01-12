@@ -1,0 +1,13 @@
+h1, h2, h3 {text-align: center;
+    color:antiquewhite;
+}
+p {text-align: left;
+    margin-left: 150px;
+    margin-right: 150px;
+    color: antiquewhite;
+}
+h1, p {font-family: Tahoma;
+        color:antiquewhite;}
+body {
+    background-color: black;
+}
