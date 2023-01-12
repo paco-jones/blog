@@ -2,8 +2,8 @@ h1, h2, h3, h5 {text-align: center;
     color:antiquewhite;
 }
 p {text-align: left;
-    margin-left: 150px;
-    margin-right: 150px;
+   margin-right: 50px;
+   margin-left: 50px;
     color: antiquewhite;
 }
 h1, p {font-family: Tahoma;
